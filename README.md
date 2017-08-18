@@ -1,4 +1,4 @@
-SISTEM DE FILE-SHARING
+File Sharing Application with UI
 ======
 
 **Componente echipa:**
